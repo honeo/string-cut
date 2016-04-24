@@ -1,6 +1,6 @@
 {
   "name": "string-cut",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "description": "文字列から指定した部分を削除して返す",
   "main": "index.js",
   "scripts": {
