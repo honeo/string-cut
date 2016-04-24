@@ -1,4 +1,4 @@
-import cut from '../cut.js';
+import cut from './cut.js';
 
 Object.defineProperty(String.prototype, 'cut', {
     value: cut,

@@ -3,7 +3,7 @@
 [string-cut](https://www.npmjs.com/package/string-cut)
 
 ## なにこれ
-文字列から指定した文字列or正規表現と一致する部分をカットして残りを返す。
+文字列から指定した部分を削除して返す。
 
 ## 使い方
 ```sh
